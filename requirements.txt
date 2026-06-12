@@ -1,0 +1,12 @@
+google-generativeai
+tavily-python
+sentence-transformers
+trafilatura
+pypdf
+requests
+numpy
+python-dotenv
+streamlit
+pypandoc
+torch
+torchvision

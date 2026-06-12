@@ -75,3 +75,6 @@ USE_LLM_REPORT=true
 - Markdown export works directly in the UI. DOCX/PDF conversion helpers
   are included in `export_report.py`, but PDF export depends on local
   pandoc/PDF tooling.
+
+## Screenshots
+<img width="2560" height="16512" alt="screencapture-localhost-8502-2026-06-12-15_19_47" src="https://github.com/user-attachments/assets/7d2a5c35-edba-4b6d-a077-2c03ad1c70c7" />
